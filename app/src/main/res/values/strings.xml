@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EAC2JSONPlaceholder</string>
+    <string name="loading_failed">No s\'ha pogut carregar</string>
+    <string name="retry">Retry</string>
+</resources>
